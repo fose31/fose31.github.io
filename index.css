@@ -63,7 +63,7 @@ a.header.active {
 
 section {
   float: left;
-  height: 85vh;
+  height: 130vh;
   width: 71%;
   background-color: #ffffff;
   margin-left: 5px;
@@ -90,7 +90,7 @@ h2 {
   margin-top: 10px;
 }
 aside {
-  height: 85vh;
+  height: 130vh;
   width: 28%;
   background-color: #ffffff;
   border-left: 1px dotted #e8e8e8;
@@ -154,6 +154,7 @@ h3 {
 }
 #contemp {
   padding: 50px;
+  height: 130vh;
 }
 p {
   letter-spacing: 2px;
